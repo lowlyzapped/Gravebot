@@ -1,11 +1,11 @@
 module.exports = {
   // *Required* Prefix for commands.
-  PREFIX: '!',
+  PREFIX: '?',
   PORT: 5000,
 
   // *Required* Bot token. Can be found in your bots application page.
   // https://discordapp.com/developers/applications/me
-  TOKEN: '',
+  TOKEN: 'Mzk2NjUzMzc4MDM5NDQ3NTUy.DSkjxA.WxoRTxMgrfkgHaTtzdPXXBYQLWw',
 
   // *Required* Bot client ID. Can be found in your bots application page.
   // https://discordapp.com/developers/applications/me
@@ -24,8 +24,8 @@ module.exports = {
 
   // Imgflip username and password, used for creating memes with `!meme`.
   // Create an account here. https://imgflip.com
-  IMGFLIP_USERNAME: '',
-  IMGFLIP_PASSWORD: '',
+  IMGFLIP_USERNAME: 'lowlyzapped',
+  IMGFLIP_PASSWORD: 'Junior19',
 
   // Champion.gg API key, used for the League of Legends `!lol` commands.
   // Create a key here. http://api.champion.gg
